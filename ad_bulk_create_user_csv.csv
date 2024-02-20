@@ -1,0 +1,3 @@
+firstname,lastname,username,email,password,EmployeeID,EmployeeNumber,streetaddress,city,zipcode,state,country,telephone,jobtitle,description,manager,company,division,department,office,ou
+manager,manager,manager.manager,manager.manager@mail.com,Abcd1234,1,1,,,91404,CA,0,111-111-1111,manager1,manager1,some.person,company1,division1,Dept,office1,"OU=sdm,OU=Users,OU=LA,DC=sdm,DC=skydance,DC=xyz"
+first,last,first.last,first.last@mail.com,Abcd1234,2,2,,,91404,CA,0,222-222-2222,contributor,contributor,some.person,company1,division1,Dept,remote1,"OU=sdm,OU=Users,OU=LA,DC=sdm,DC=skydance,DC=xyz"
